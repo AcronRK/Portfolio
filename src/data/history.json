@@ -1,0 +1,50 @@
+[
+    {
+      "role": "Working Student Product Manager",
+      "organisation": "Pliant",
+      "startDate": "Oct, 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Led the development of customizable bill payment dates, enabling companies with greater control over their expenses and financial reports, creating requirements and managing the product through Jira.",
+        "Developed Postman workflows for Quality Assurance of Accounting Export data, contributing to the validation of data integrity across all export methods provided by Pliant.", 
+        "Conducted market and competitor research, influencing product decisions and identifying key customer needs.",
+        "Collaborated and aligned with multiple teams and Senior Product Managers to ensure product delivery on-schedule."
+      ],
+      "imageSrc": "history/pliant.png"
+    },
+    {
+      "role": "Working Student Data Scientist",
+      "organisation": "Siemens Energy",
+      "startDate": "Mar, 2022",
+      "endDate": "Sep, 2023",
+      "experiences": [
+        "Utilized Python to manipulate, analyze, and visualize fleet wide sensor data, ensuring data quality and integrity.", 
+        "Collaborated on improving internal Python libraries for Data Engineering and Analysis.",
+        "Analyzed rotor damage, contributing to a 5% reduction in damages and enhanced corrosion prevention.",
+        "Maintained and created Tableau visualizations effectively communicating insights to shareholders."
+      ],
+      "imageSrc": "history/siemens-energy.jpg"
+    },
+    {
+      "role": "SAP Software Engineer",
+      "organisation": "Brizo Consulting",
+      "startDate": "Sep, 2020",
+      "endDate": "Sep, 2021",
+      "experiences": ["Worked with SAP development tools including ABAP (Advanced Business Application Programming), SAP Fiori, and SAP HANA.", 
+        "Utilized SAP HANA to architect, develop, and maintain a robust database infrastructure, optimizing data retrieval and processing efficiency.",
+        "Designed ALV Reports and Easy to Use and navigate User Interfaces for our internal application."
+      ],
+      "imageSrc": "history/brizo.jpg"
+    },
+    {
+      "role": "SWE Intern",
+      "organisation": "Epoka University",
+      "startDate": "Jun, 2019",
+      "endDate": "Sep, 2019",
+      "experiences": [
+        "Worked with PHP Sympfony and Bootstrap to create components for the universities Learning Management System"
+      ],
+      "imageSrc": "history/epoka.png"
+    }
+  ]
+  
