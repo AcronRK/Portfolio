@@ -99,6 +99,7 @@
     list-style-type: disc;
 }
 
+
 @media screen and (max-width: 830px){
     .content{
         flex-direction: column;
@@ -115,5 +116,10 @@
     .history{
         width: 100%;
         gap: 9px
+    }
+
+    
+    .imageLogo{
+        display: none;
     }
 }

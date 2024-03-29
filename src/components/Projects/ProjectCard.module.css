@@ -8,6 +8,8 @@
     box-shadow: 0 16px 14px 0 #0b042d;
     padding: 18px 24px;
     max-width: 450px;
+    min-width: 450px;
+    /* min-width: max-content; */
     min-height: 660px;
 }
 
