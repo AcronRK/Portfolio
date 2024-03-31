@@ -4,48 +4,60 @@
       "imageSrc": "projects/ideal.png",
       "description": "Price Comparison Website for Phones and Laptops in Albania that automatically updates the prices daily and shows the best offers.",
       "skills": ["NodeJS", "MongoDB"],
-      "demo": "https://web.archive.org/web/20230616174352/https://ideal.al/",
-      "source": ""
+      "text1": "Demo",
+      "text2": "",
+      "link1": "https://web.archive.org/web/20230616174352/https://ideal.al/",
+      "link2": ""
     },
     {
       "title": "Tricron",
       "imageSrc": "projects/tricron.png",
       "description": "A 2D arcade-style game developed using Godot. It involves the user commanding two triangles trying to dodge other shapes by splitting the triangles from each other",
       "skills": ["Godot"],
-      "demo": "https://acron-rk.itch.io/tricron",
-      "source": ""
+      "text1": "Demo",
+      "text2": "",
+      "link1": "https://acron-rk.itch.io/tricron",
+      "link2": ""
     },
     {
       "title": "Steganography Tool",
       "imageSrc": "projects/steg.png",
       "description": "Steganography is the art of hiding messages in images by manipulating bits. This is a simple tool that you can encode/decode messaged (I used it for passwords)",
       "skills": ["Python", "Tkinter"],
-      "demo": "",
-      "source": "https://github.com/AcronRK/Steganography"
+      "text1": "",
+      "text2": "Source",
+      "link1": "",
+      "link2": "https://github.com/AcronRK/Steganography"
     },
     {
       "title": "Good Views",
       "imageSrc": "projects/project.png",
       "description": "Implemented RESTful APIs in Spring Boot for accessing and manipulating movie data. Implemented a dynamic website to view the data and add comments regarding the movies using React",
       "skills": ["SpringBoot", "React", "MongoDB"],
-      "demo": "",
-      "source": "https://github.com/AcronRK/GoodViews"
+      "text1": "",
+      "text2": "Source",
+      "link1": "",
+      "link2": "https://github.com/AcronRK/GoodViews"
     },
     {
       "title": "Fitness Website",
       "imageSrc": "projects/fitness.png",
       "description": "Its the start of the year and you are thinking to go to the gym? You came to the right spot because this is the gym for you!",
       "skills": ["Typescript", "React", "Tailwind"],
-      "demo": "https://gym-typescript-12w.pages.dev",
-      "source": "https://github.com/AcronRK/gym-typescript"
+      "text1": "Demo",
+      "text2": "Source",
+      "link1": "https://gym-typescript-12w.pages.dev",
+      "link2": "https://github.com/AcronRK/gym-typescript"
     },
     {
       "title": "Git Gud",
       "imageSrc": "projects/gitgud.png",
       "description": "I have encoutered so many teammates in League of Legends that need this. Private coaching that is! Git Gud offers just that with the best players out there",
       "skills": ["Typescript", "React", "Tailwind"],
-      "demo": "https://32b3b483.git-gud.pages.dev",
-      "source": "https://github.com/AcronRK/git-gud"
+      "text1": "Demo",
+      "text2": "Source",
+      "link1": "https://32b3b483.git-gud.pages.dev",
+      "link2": "https://github.com/AcronRK/git-gud"
     }
   ]
   

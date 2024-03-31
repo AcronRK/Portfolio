@@ -2,7 +2,7 @@ import React from "react";
 import { getImageUrl } from "../../utils"
 import styles from "./ProjectCard.module.css"
 
-export const ProjectCard = ({ project: {title, imageSrc, description, skills, demo, source} }) => {
+export const ProjectCard = ({ project: {title, imageSrc, description, skills, text1, text2, link1, link2} }) => {
     return (
         <div className={styles.container}> 
             <img className={styles.image} src={getImageUrl(imageSrc)} alt={title} />
@@ -16,8 +16,12 @@ export const ProjectCard = ({ project: {title, imageSrc, description, skills, de
                 })}
             </ul>
             <div className={styles.links}>
-                <a className={styles.link} href={demo}>Demo</a>
-                <a className={styles.link} href={source}>Source</a>
+                {text1 !== "" ? (
+                    <a className={styles.link} href={link1}>{text1}</a>
+                ): null}
+                {text2 !== "" ? (
+                    <a className={styles.link} href={link2}>{text2}</a>
+                ): null}
             </div>
         </div>
     )
