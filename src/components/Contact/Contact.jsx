@@ -22,7 +22,7 @@ export const Contact = () => {
                 </li>
                 <li className={styles.link}>
                     <img src={getImageUrl("contact/githubIcon.png")} alt="GitHub Icon" />
-                    <a href="https://github.com/AcronRK">github.com/AcronRK</a>
+                    <a href="https://github.com/ReniKoci">github.com/AcronRK</a>
                 </li>
             </ul>
         </footer>
