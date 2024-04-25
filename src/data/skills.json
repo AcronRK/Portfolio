@@ -1,11 +1,12 @@
 [
-    {
-      "title": "Python",
-      "imageSrc": "skills/python.svg"
-    },
+    
     {
       "title": "Java",
       "imageSrc": "skills/java.svg"
+    },  
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.svg"
     },
     {
       "title": "HTML",
@@ -34,6 +35,18 @@
     {
       "title": "Godot",
       "imageSrc": "skills/godot.svg"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/mysql.svg"
+    },
+    {
+      "title": "Docker",
+      "imageSrc": "skills/docker.svg"
+    },
+    {
+      "title": "Postman",
+      "imageSrc": "skills/postman.svg"
     }
   ]
   

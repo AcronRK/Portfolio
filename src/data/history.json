@@ -5,10 +5,10 @@
       "startDate": "Oct, 2023",
       "endDate": "Present",
       "experiences": [
-        "Led the development of customizable bill payment dates, enabling companies with greater control over their expenses and financial reports, creating requirements and managing the product through Jira.",
-        "Developed Postman workflows for Quality Assurance of Accounting Export data, contributing to the validation of data integrity across all export methods provided by Pliant.", 
-        "Conducted market and competitor research, influencing product decisions and identifying key customer needs.",
-        "Collaborated and aligned with multiple teams and Senior Product Managers to ensure product delivery on-schedule."
+        "Engineered a custom bill payment date feature with a cross-functional team, empowering organizations to personalize payment schedules.",
+        "Implemented Postman workflows for Quality Assurance of Accounting Export data and automations, reducing operational time on testing data creation by 90%.", 
+        "Assisted Senior Product Managers in coordinating project timelines and cross-functional team efforts, contributing to timely product delivery and seamless collaboration across departments.",
+        "Conducted market and competitor research, influencing product decisions and identifying key customer needs."
       ],
       "imageSrc": "history/pliant.png"
     },
@@ -18,9 +18,9 @@
       "startDate": "Mar, 2022",
       "endDate": "Sep, 2023",
       "experiences": [
-        "Utilized Python to manipulate, analyze, and visualize fleet wide sensor data, ensuring data quality and integrity.", 
-        "Collaborated on improving internal Python libraries for Data Engineering and Analysis.",
-        "Analyzed rotor damage, contributing to a 5% reduction in damages and enhanced corrosion prevention.",
+        "Leveraged Python to manipulate, analyze, and visualize fleet-wide sensor data, ensuring high data quality and integrity throughout the analysis process.", 
+        "Collaborated with other teams to enhance internal Python libraries for Data Engineering and Analysis, resulting in a 20% increase in efficiency and streamlined data processing.",
+        "Conducted in-depth analysis of rotor damage, leading to a 5% reduction in damages and improved corrosion prevention strategies, resulting in significant cost savings.",
         "Maintained and created Tableau visualizations effectively communicating insights to shareholders."
       ],
       "imageSrc": "history/siemens-energy.jpg"
@@ -30,9 +30,10 @@
       "organisation": "Brizo Consulting",
       "startDate": "Sep, 2020",
       "endDate": "Sep, 2021",
-      "experiences": ["Worked with SAP development tools including ABAP (Advanced Business Application Programming), SAP Fiori, and SAP HANA.", 
-        "Utilized SAP HANA to architect, develop, and maintain a robust database infrastructure, optimizing data retrieval and processing efficiency.",
-        "Designed ALV Reports and Easy to Use and navigate User Interfaces for our internal application."
+      "experiences": [
+        "Architected a custom ABAP system streamlining transaction input in the SAP System.", 
+        "Leveraged SAP HANA to optimize database infrastructure, resulting in a 25% reduction in system response time and improved overall system performance.",
+        "Created  dynamic ALV Reports with interactive elements."
       ],
       "imageSrc": "history/brizo.jpg"
     },
@@ -42,7 +43,8 @@
       "startDate": "Jun, 2019",
       "endDate": "Sep, 2019",
       "experiences": [
-        "Worked with PHP Sympfony and Bootstrap to create components for the universities Learning Management System"
+        "Collaborated within the Software Engineering Department at Epoka University to maintain and enhance the university's Learning Management System, utilizing PHP, Symfony framework, and Bootstrap technologies.",
+        "Assisted in the design and implementation of the database structure ensuring efficient data storage and retrieval processes with PostgreSQL."
       ],
       "imageSrc": "history/epoka.png"
     }
