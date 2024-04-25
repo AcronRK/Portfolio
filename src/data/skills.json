@@ -47,6 +47,18 @@
     {
       "title": "Postman",
       "imageSrc": "skills/postman.svg"
+    },
+    {
+      "title": "AWS",
+      "imageSrc": "skills/aws.png"
+    },
+    {
+      "title": "SpringBoot",
+      "imageSrc": "skills/springboot.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "skills/linux.png"
     }
   ]
   
